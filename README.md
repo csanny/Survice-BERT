@@ -9,8 +9,12 @@
 
 - We build our datasets because of no open datasets containing the tags we want to extract.
 - We created a dataset identical to the CoNLL-2003 dataset format.
+- Example of datset
 
-  ### NER tags
+  'Update on the measles outbreak on ', ' reported last week : As of 20 February 2012 ( week 8 ) , there are 1326 confirmed cases with 1113 deaths',  
+  ['O','O','O','B-DISEASE','O','O'], ['O','B-DATE_WEEK','O','O','O','O','B-DATE_DAY','B-DATE_MONTH','B-DATE_YEAR','O','O','B-DATE_WEEK','O','O','O','O','B-TOTAL_CASE','O','O','O','B-TOTAL_DEATH','O','O']
+
+- NER tags
 
   - Date(Year, Month, Week, Day)
   - Location
