@@ -26,7 +26,10 @@
 
 ## Reference
 
-[1] [BERT](https://github.com/google-research/bert) \n
-[2] [BioBERT](https://github.com/dmis-lab/biobert) \n
-[3] [SciBERT](https://github.com/allenai/scibert) \n
+[1] [BERT](https://github.com/google-research/bert) 
+
+[2] [BioBERT](https://github.com/dmis-lab/biobert) 
+
+[3] [SciBERT](https://github.com/allenai/scibert) 
+
 [4] [NERDA](https://github.com/ebanalyse/NERDA)
