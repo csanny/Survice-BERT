@@ -5,17 +5,17 @@
 - The purpose of the model is to collect key information of infectious diseases from disease surveillance reports and utilize as training data for prediction model of infectious disease.
 
 
-## NER tags
-
-- Date(Year, Month, Week, Day)
-- Location
-- Disease name
-- The number of Case and Death
-
-
 ## Datasets
 
+- We build our datasets because of no open datasets containing the tags we want to extract.
+- We created a dataset identical to the CoNLL-2003 dataset format.
 
+  # NER tags
+
+  - Date(Year, Month, Week, Day)
+  - Location
+  - Disease name
+  - The number of Case and Death
 
 
 ## Requirements
@@ -33,3 +33,5 @@
 [3] [SciBERT](https://github.com/allenai/scibert) 
 
 [4] [NERDA](https://github.com/ebanalyse/NERDA)
+
+[5] [CoNLL-2003](https://www.clips.uantwerpen.be/conll2003/ner/)
