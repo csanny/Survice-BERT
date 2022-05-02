@@ -29,8 +29,8 @@
 ## Requirements
 
 ```bash
-- import torch/1.9.0+cu102 
-- import NERDA/0.9.5
+import torch/1.9.0+cu102 
+import NERDA/0.9.5
 ```
 
 ## Reference
