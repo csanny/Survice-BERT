@@ -31,7 +31,7 @@
 ```bash
 import numpy/1.22.2
 import pandas/1.4.4
-import torch/1.13.0a0+936e930
+import torch/1.13.1
 import NERDA/0.9.6
 ```
 
